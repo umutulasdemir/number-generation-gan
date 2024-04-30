@@ -23,7 +23,6 @@ For this project, the MNIST dataset is used. However, you can replace it with an
 
 <img width="410" alt="Screenshot 2024-04-30 at 16 06 54" src="https://github.com/umutulasdemir/number-generation-gan/assets/68897681/f34a795c-4422-48f5-94e1-1602623f28d4">
 <img width="396" alt="Screenshot 2024-04-30 at 16 11 20" src="https://github.com/umutulasdemir/number-generation-gan/assets/68897681/4a753001-68f4-402b-9b42-258ce9b4c16e">
-<img width="406" alt="Screenshot 2024-04-30 at 16 07 18" src="https://github.com/umutulasdemir/number-generation-gan/assets/68897681/ecb8505d-a02c-4e39-a269-189f8b4676d1">
 
 ## Further Information
 
